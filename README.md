@@ -7,10 +7,10 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 - Paper beats Rock.
 
 ## Live Demo
-- [Coming Soon](#)
+- [Coming Soon](https://carljean.github.io/rock-paper-scissors/)
 
 ## Versions available
-- [console version](./index.html)
+- [console version](https://carljean.github.io/rock-paper-scissors/)
 - [GUI version](#) is coming soon
 
 ## How to run the app
