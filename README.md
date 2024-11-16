@@ -10,5 +10,14 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 - [Coming Soon](#)
 
 ## Versions available
-- [console version](#)
+- [console version](./index.html)
 - [GUI version](#) is coming soon
+
+## How to run the app
+
+### To run the console version follow these steps:
+1. clone the repository on your computer
+2. cd to the cloned repository
+3. open the index.html file in your browser
+4. type your choice in the prompt box
+5. open your browser's console to see the result for each round.
