@@ -6,8 +6,11 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 - Scissors beat Paper.
 - Paper beats Rock.
 
+## Purpose
+This project is my first javascript project, I am given it as assignment by [The Odin Project](https://www.theodinproject.com/) to show that I have understood the first part of the basics of javascript, and also to show that I can solve and implement a pretty basic computer program like the rock-paper-scissor program.
+
 ## Live Demo
-- [Coming Soon](https://carljean.github.io/rock-paper-scissors/)
+- [rock-paper-scissors](https://carljean.github.io/rock-paper-scissors/)
 
 ## Versions available
 - [console version](https://carljean.github.io/rock-paper-scissors/)
