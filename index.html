@@ -3,13 +3,41 @@
     <head>
         <meta charset="UTF-8">
         <title>Rock Paper Scissors</title>
+        <link rel="stylesheet" href="./style.css">
     </head>
     <body>
 
+        <div class="game-container">
+            <div id="round-counter-screen"><strong>ROUND 1</strong></div>
+
+            <div class="choices">
+                <div class="choice-container">
+                    <div class="box1">
+                        <img id="rock" src="./img/rock.png" alt="rock image">
+                    </div>
+                    <div class="box2">
+                        <img id="paper" src="./img/paper1.png" alt="paper image">
+                    </div>
+                    <div class="box3">
+                        <img id="scissors" src="./img/scissors.svg" alt="scissors imgage">
+                    </div>
+                </div>
+                <div class="computer-choice-container">
+                    <div class="box1">
+                        <img id="rock" src="./img/rock.png" alt="rock image">
+                    </div>
+                    <div class="box2">
+                        <img id="paper" src="./img/paper1.png" alt="paper image">
+                    </div>
+                    <div class="box3">
+                        <img id="scissors" src="./img/scissors.svg" alt="scissors imgage">
+                    </div>
+                </div>
+            </div>
+            <div id="result"></div>
+        </div>
 
         <!-- rps: Rock Paper Scissors -->
-        <script src="./rps.js">
-            // console.log("Hello World!");
-        </script>
+        <script src="./rps.js"></script>
     </body>
 </html>
