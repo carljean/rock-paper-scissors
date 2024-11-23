@@ -5,22 +5,10 @@ Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun a
 - Rock beats Scissors.
 - Scissors beat Paper.
 - Paper beats Rock.
+- Player who reaches a score of 5 first win the game.
 
 ## Purpose
 This project is my first javascript project, I am given it as assignment by [The Odin Project](https://www.theodinproject.com/) to show that I have understood the first part of the basics of javascript, and also to show that I can solve and implement a pretty basic computer program like the rock-paper-scissor program.
 
 ## Live Demo
 - [rock-paper-scissors](https://carljean.github.io/rock-paper-scissors/)
-
-## Versions available
-- [console version](https://carljean.github.io/rock-paper-scissors/)
-- [GUI version](#) is coming soon
-
-## How to run the app
-
-### To run the console version follow these steps:
-1. clone the repository on your computer
-2. cd to the cloned repository
-3. open the index.html file in your browser
-4. type your choice in the prompt box
-5. open your browser's console to see the result for each round.
